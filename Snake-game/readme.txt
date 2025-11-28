@@ -1,8 +1,6 @@
-A lightweight Unix-like shell implemented in C that supports internal commands, external commands, piping, and I/O redirection. 
-This project strengthened my understanding of process creation, system calls (fork, execvp, pipe, dup2), and command parsing.
-It replicates essential shell behaviors while demonstrating OS concepts like inter-process communication and file descriptor management.
 
 
+A classic terminal-based Snake Game built using C and fundamental data structures. The game includes real-time movement, score tracking, boundary collision, and dynamic food generation. This project helped me understand game loops, keyboard input handling, and memory logic while creating an interactive and enjoyable console application.
 
 
 
