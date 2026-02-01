@@ -314,7 +314,6 @@ module_init(i2c_init);
 module_exit(i2c_exit);
 
 
-//MODULE_LICENCE("GPL");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("NIVO");
 MODULE_DESCRIPTION("this is the i2c driver for the device mpu6050");
