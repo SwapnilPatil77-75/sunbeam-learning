@@ -43,6 +43,7 @@ emp,Gx,Gy,Gz);
 
 	printf("%s\n",msg);
 
+	close(fd);
 
 
     return 0;
