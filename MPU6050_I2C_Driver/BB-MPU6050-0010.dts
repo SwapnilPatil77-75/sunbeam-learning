@@ -13,7 +13,7 @@
             #size-cells = <0>;
 
             mpu6050: mpu6050@68 {
-                compatible = "inv,mpu6050";
+                compatible = "invensense,mpu6050";
                 reg = <0x68>;
                 status = "okay";
             };
